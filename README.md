@@ -26,8 +26,8 @@ model/.
 
 
 
-**Usage: **
+**Usage:**
 
-* model/tumor_estimator_core.m - main function that runs the system and generates the runtime output file (mat file)
-* model/tumor_growth_models_eval.m - evaluation and plotting function reading the runtime output file
+* **model/tumor_estimator_core.m** - main function that runs the system and generates the runtime output file (mat file)
+* **model/tumor_growth_models_eval.m** - evaluation and plotting function reading the runtime output file
 
